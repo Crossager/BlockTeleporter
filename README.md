@@ -13,3 +13,6 @@ do /blockteleport stop-editing
 
 
 done (crazy simple right?)
+
+
+note: the code is not meant to be clean at all, this plugin was mashed together in the span of ~1 hour
