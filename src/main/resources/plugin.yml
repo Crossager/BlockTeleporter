@@ -1,0 +1,11 @@
+name: BlockTeleporter
+version: '${project.version}'
+main: net.crossager.blockteleporter.BlockTeleporter
+api-version: 1.19
+authors: [ Crossager ]
+
+commands:
+  blockteleport:
+    aliases:
+      - bt
+    permission: blockteleport.admin

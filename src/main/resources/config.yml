@@ -1,0 +1,6 @@
+# time to press all the block thingies (in seconds)
+block-cooldown: 20
+# funny thing to remove goat horn cooldown :troll:
+no-goat-horn-cooldown: false
+# should block locations be removed from the list if they are broken?
+remove-block-location-on-break: true
