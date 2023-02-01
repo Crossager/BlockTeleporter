@@ -18,7 +18,6 @@ public class PlayerData {
 
     public void clickBlock(Location location) {
         lastPressed.put(location, System.currentTimeMillis());
-        System.out.println(lastPressed);
     }
 
     public boolean hasClicked(List<Location> locations) {
